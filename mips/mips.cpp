@@ -1107,6 +1107,7 @@ void mips::behavior() {
 } // behavior()
 
 #include <ac_sighandlers.H>
+#include <ac_args.H>
 
 void mips::init() {
 
